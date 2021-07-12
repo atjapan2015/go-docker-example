@@ -1,3 +1,5 @@
+trigger
+
 # Golang Docker Example
 1. Clone the repository
 ```bash
